@@ -1,4 +1,4 @@
-### Implementation From Scratch: Univariate And Multivariate Linear Regression
+### Implementation From Scratch: Univariate / Multivariate Linear Regression & Regularization
  
 Mini project for theoritical understanding
 </br>
