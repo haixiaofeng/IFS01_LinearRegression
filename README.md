@@ -4,6 +4,6 @@
 </br>
 </br>
 
-Mini project for theoritical understanding, please visit [linearRegression.ipynb (colab)]() for details.
+Mini project for theoritical understanding, for details on implementation, please visit _[linearRegression.ipynb (colab)](_.
 </br>
 </br>
